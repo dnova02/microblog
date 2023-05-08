@@ -4,4 +4,4 @@ app/__pycache__
 *.db
 log/microblog.log
 microblog.log
-config.py
+microblog/config.py
