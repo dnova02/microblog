@@ -7,3 +7,5 @@ microblog.log
 config.py
 microblog/config.py
 microblog.log.1
+microblog/logs
+logs/
